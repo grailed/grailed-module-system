@@ -1,0 +1,27 @@
+{
+  "name": "grailed-module-system",
+  "version": "1.0.0",
+  "description": "The system module for grailed",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/specs"
+  },
+  "author": "David Tsuji",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grailed/grailed-module-system"
+  },
+  "bugs": {
+    "url": "https://github.com/grailed/grailed-module-system/issues"
+  },
+  "homepage": "https://github.com/grailed/grailed-module-system",
+  "dependencies": {
+    "sc-cast": "0.0.8",
+    "sc-is": "0.0.3",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "should": "^4.6.1"
+  }
+}
