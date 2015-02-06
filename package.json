@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/grailed/grailed-module-system",
   "dependencies": {
+    "grailed-module-adapter": "^1.0.2",
     "sc-cast": "0.0.8",
     "sc-is": "0.0.3",
     "underscore": "^1.7.0"
