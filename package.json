@@ -16,8 +16,11 @@
     "url": "https://github.com/grailed/grailed-module-system/issues"
   },
   "homepage": "https://github.com/grailed/grailed-module-system",
+  "peerDependencies": {
+    "grailed": "~4.2.2"
+  },
   "dependencies": {
-    "grailed-module-adapter": "^1.0.2",
+    "grailed-module-adapter": "~1.2.0",
     "sc-cast": "0.0.8",
     "sc-is": "0.0.3",
     "underscore": "^1.7.0"
