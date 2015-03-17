@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/grailed/grailed-module-system",
   "peerDependencies": {
-    "grailed": "~4.2.2"
+    "grailed": "^4.3.0"
   },
   "dependencies": {
     "grailed-module-adapter": "~1.2.0",
