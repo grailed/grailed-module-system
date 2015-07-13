@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/grailed/grailed-module-system",
   "peerDependencies": {
-    "grailed": "^4.3.0"
+    "grailed": "^5.0.0"
   },
   "dependencies": {
-    "grailed-module-adapter": "~1.2.0",
+    "grailed-module-adapter": "^2.0.0",
     "sc-cast": "0.0.8",
     "sc-is": "0.0.3",
     "underscore": "^1.7.0"
